@@ -12,7 +12,7 @@ Constrained Policy Optimization is closely related to safe exploration, which me
 
 ## Constraints on expectations
 
-This type of constraints includes the total expected cost until the state reaches some set $M$, the expected discounted cost, expected average cost, etc.
+This type of constraints includes the total expected cost until the state reaches some set M, the expected discounted cost, expected average cost, etc.
 
 * <[Safe Policy Learning for Continuous Control](https://openreview.net/pdf?id=HkxeThNFPH)> by Yinlam Chow, Ofir Nachum, Aleksandra Faust, Edgar Duenez-Guzman and Mohammad Ghavamzadeh, 2020.
 
