@@ -32,7 +32,7 @@ This type of constraints includes the total expected cost until the state reache
 
 * **[CMDP]** <[Constrained Markov Decision Process](http://www-sop.inria.fr/members/Eitan.Altman/PAPERS/h.pdf)> by Eitan ALTMAN, 1999.
   
-  This book establishes the framework of CMDPs and solve the optimization problem with known model by linear programming. But it does not give the solution for optimial control in high dimensional control.
+  This book establishes the framework of CMDPs and solve the optimization problem with known model by linear programming. But it does not give the solution for optimial policy in high dimensional control.
 
 ## Separate constraints on each state/action
 
