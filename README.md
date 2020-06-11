@@ -1,4 +1,4 @@
-# Constrained-Policy-Optimization-Paper-Lists
+# Constrained-Policy-Optimization-Paper-List
 
 This paper collection of contrained policy optimization classifies the papers according to the types of constraints they deal with. In the same class, papers are sorted by time. In the future, more reasonable classification standards will be adopted.
 
