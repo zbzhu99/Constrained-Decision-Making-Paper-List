@@ -6,6 +6,8 @@ Constrained Policy Optimization is closely related to safe exploration, which me
 
 ## Review / Survey
 
+* <[Exploration-Exploitation in Constrained MDPs](https://arxiv.org/pdf/2003.02189.pdf)> by Yonathan Efroni, Shie Mannor and Matteo Pirotta, 2020.
+
 * <[Benchmarking Safe Exploration in Deep Reinforcement Learning](https://pdfs.semanticscholar.org/4d0f/6a6ffcd6ab04732ff76420fd9f8a7bb649c3.pdf)> by Alex Ray, Joshua Achiam and Dario Amodei, 2019.
 
 * <[A Comprehensive Survey on Safe Reinforcement Learning](https://pdfs.semanticscholar.org/c0f2/c4104ef6e36bb67022001179887e6600d24d.pdf)> by Javier Garc´ıa and Fernando Fern´andez, 2015.
@@ -18,9 +20,9 @@ This type of constraints includes the total expected cost until the state reache
 
 * **[PCPO]** <[Projection-Based Constrained Policy Optimization](https://pdfs.semanticscholar.org/80ad/925b669e8d54dab4dd7c123e33a655612339.pdf)> by Tsung-Yen Yang, Justinian Rosca, Karthik Narasimhan and Peter J. Ramadge, 2020.
 
-* **[RCPO]** <[Reward constrained policy optimization](https://arxiv.org/pdf/1805.11074)> by Chen Tessler, Daniel J. Mankowitz and Shie Mannor, 2019.
+* **[RCPO]** <[Reward Constrained Policy Optimization](https://arxiv.org/pdf/1805.11074)> by Chen Tessler, Daniel J. Mankowitz and Shie Mannor, 2019.
 
-* <[Value constrained model-free continuous control](https://arxiv.org/pdf/1902.04623)> by Steven Bohez, Abbas Abdolmaleki, Michael Neunert, Jonas Buchli, Nicolas Heess and Raia Hadsell, 2019.
+* <[Value Constrained Model-free Continuous Control](https://arxiv.org/pdf/1902.04623)> by Steven Bohez, Abbas Abdolmaleki, Michael Neunert, Jonas Buchli, Nicolas Heess and Raia Hadsell, 2019.
 
 * <[Batch Policy Learning under Constraints](https://arxiv.org/pdf/1903.08738)> by Hoang M. Le, Cameron Voloshin and Yisong Yue, 2019.
 
