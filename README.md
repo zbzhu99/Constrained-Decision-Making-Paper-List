@@ -1,10 +1,12 @@
-# Constrained-Policy-Optimization-Paper-List
+# Constrained-Decision-Making-Paper-List
 
-This paper collection of contrained policy optimization classifies the papers according to the types of constraints they deal with. In the same class, papers are sorted by time. In the future, more reasonable classification standards will be adopted.
+This paper collection of contrained decision making classifies the papers according to the types of constraints they deal with. In the same class, papers are sorted by time. In the future, more reasonable classification standards will be adopted.
 
 Constrained Policy Optimization is closely related to safe exploration, which means providing certain degree of safety guarantee during exploration procedure. More about exploration in reinforcement learning can be found in [RL-Exploration-Paper-Lists](https://github.com/apexrl/RL-Exploration-Paper-Lists/blob/master/README.md).
 
-## Review / Survey
+## Reinforcement Learning Under Constraints
+
+### Review / Survey
 
 * <[Exploration-Exploitation in Constrained MDPs](https://arxiv.org/pdf/2003.02189.pdf)> by Yonathan Efroni, Shie Mannor and Matteo Pirotta, 2020.
 
@@ -12,7 +14,7 @@ Constrained Policy Optimization is closely related to safe exploration, which me
 
 * <[A Comprehensive Survey on Safe Reinforcement Learning](https://pdfs.semanticscholar.org/c0f2/c4104ef6e36bb67022001179887e6600d24d.pdf)> by Javier Garc´ıa and Fernando Fern´andez, 2015.
 
-## Constraints on expectations
+### Constraints on expectations
 
 This type of constraints includes the total expected cost until the state reaches some set M, the expected discounted cost, expected average cost, etc.
 
@@ -36,14 +38,44 @@ This type of constraints includes the total expected cost until the state reache
   
   This book establishes the framework of CMDPs and solve the optimization problem with known model by linear programming. But it does not give the solution for optimial policy in high dimensional control.
 
-## Separate constraints on each state/action
-
-* <[Maximum Likelihood Constraint Inference for Inverse Reinforcement Learning](https://arxiv.org/pdf/1909.05477)> by Dexter R.R. Scobee and Shankar Sastry, 2019.
-
-    This paper is in inverse RL setting.
+### Hard constraints on each state/action
 
 * <[Safe Exploration in Continuous Action Spaces](https://arxiv.org/pdf/1801.08757)> by Gal Dalal, Krishnamurthy Dvijotham, Matej Vecerik, Todd Hester, Cosmin Paduraru and Yuval Tassa, 2018.
 
-## Chance constraints
+### Chance constraints
 
 * <[Risk-Constrained Reinforcement Learning with Percentile Risk Criteria](http://www.jmlr.org/papers/volume18/15-636/15-636.pdf)> by Yinlam Chow, Mohammad Ghavamzadeh, Lucas Janson and Marco Pavone, 2015.
+
+## Imitation Learning Of Constraints
+
+* <[Approaches to Safety in Inverse Reinforcement Learning](https://escholarship.org/content/qt6j34r5tp/qt6j34r5tp.pdf)> by Dexter R.R. Scobee, 2020.
+
+* <[Counter-example Guided Learning of Bounds on Environment Behavior](https://arxiv.org/pdf/2001.07233)> by Yuxiao Chen, Sumanth Dathathri, Tung Phan-Minh and Richard M. Murray, 2020.
+
+* <[Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning](http://proceedings.mlr.press/v100/park20a/park20a.pdf)> by Daehyung Park, Michael Noseworthy, Rohan Paul, Subhro Roy and Nicholas Roy, 2020.
+
+* <[Maximum likelihood constraint inference for inverse reinforcement learning](https://arxiv.org/pdf/1909.05477)> by Dexter R.R. Scobee and S. Shankar Sastry, 2019.
+
+* <[Learning constraints from demonstrations](https://arxiv.org/pdf/1812.07084)> by Glen Chou, Dmitry Berenson and Necmiye Ozay, 2018.
+
+* <[Modeling supervisor safe sets for improving collaboration in human-robot teams](https://arxiv.org/pdf/1805.03328)> by David L. McPherson, Dexter R.R. Scobee, Joseph Menke, Allen Y. Yang and S. Shankar Sastry, 2018.
+
+* <[Learning safe policies with expert guidance](https://papers.nips.cc/paper/8124-learning-safe-policies-with-expert-guidance.pdf)> by Jessie Huang, Fa Wu, Doina Precup and Yang Cai, 2018.
+
+* <[Inferring geometric constraints in human demonstrations](https://arxiv.org/pdf/1810.00140)> by Guru Subramani, Michael Zinn and Michael Gleicher, 2018.
+
+* <[Learning task specifications from demonstrations](https://papers.nips.cc/paper/7782-learning-task-specifications-from-demonstrations.pdf)> by Marcell Vazquez-Chanlatte, Susmit Jha, Ashish Tiwari, Mark K. Ho and Sanjit A. Seshia, 2018.
+
+* <[C-LEARN: Learning geometric constraints from demonstrations for multi-step manipulation in shared autonomy](https://dspace.mit.edu/bitstream/handle/1721.1/116016/ICRA17_DArpino_CLEARN.pdf?sequence=1&isAllowed=y)> by Claudia P´erez-D’Arpino and Julie A. Shah, 2017.
+
+## Imitation Learning Under Extra Constraints (Shaping Reward)
+
+* <[Simulating emergent properties of human driving behavior using multi-agent reward augmented imitation learning](https://arxiv.org/pdf/1903.05766)> by Raunak P. Bhattacharyya, Derek J. Phillips, Changliu Liu, Jayesh K. Gupta, Katherine Driggs-Campbell and Mykel J. Kochenderfer, 2019.
+
+* <[Infogail: Interpretable imitation learning from visual demonstrations](http://papers.nips.cc/paper/6971-infogail-interpretable-imitation-learning-from-visual-demonstrations.pdf)> by Yunzhu Li, Jiaming Song and Stefano Ermon, 2017.
+
+* <[Imitation learning with demonstrations and shaping rewards](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/download/8643/8826)> by Kshitij Judah, Alan Fern, Prasad Tadepalli and Robby Goetschalckx, 2014.
+
+* <[Imitation learning with a value-based prior](https://arxiv.org/pdf/1206.5290)> by Umar Syed and Robert E. Schapire, 2012.
+
+* <[Reinforcement learning from simultaneous human and MDP reward](http://www.cs.utexas.edu/users/pstone/Papers/bib2html-links/AAMAS12-knox.pdf)> by W. Bradley Knox and Peter Stone, 2012.
