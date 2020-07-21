@@ -54,28 +54,28 @@ This type of constraints includes the total expected cost until the state reache
 
 * <[Inferring Task Goals and Constraints using Bayesian Nonparametric Inverse Reinforcement Learning](http://proceedings.mlr.press/v100/park20a/park20a.pdf)> by Daehyung Park, Michael Noseworthy, Rohan Paul, Subhro Roy and Nicholas Roy, 2020.
 
-* <[Maximum likelihood constraint inference for inverse reinforcement learning](https://arxiv.org/pdf/1909.05477)> by Dexter R.R. Scobee and S. Shankar Sastry, 2019.
+* <[Maximum Likelihood Constraint Inference for Inverse Reinforcement Learning](https://arxiv.org/pdf/1909.05477)> by Dexter R.R. Scobee and S. Shankar Sastry, 2019.
 
-* <[Learning constraints from demonstrations](https://arxiv.org/pdf/1812.07084)> by Glen Chou, Dmitry Berenson and Necmiye Ozay, 2018.
+* <[Learning Constraints from Demonstrations](https://arxiv.org/pdf/1812.07084)> by Glen Chou, Dmitry Berenson and Necmiye Ozay, 2018.
 
-* <[Modeling supervisor safe sets for improving collaboration in human-robot teams](https://arxiv.org/pdf/1805.03328)> by David L. McPherson, Dexter R.R. Scobee, Joseph Menke, Allen Y. Yang and S. Shankar Sastry, 2018.
+* <[Modeling Supervisor Safe Sets for Improving Collaboration in Human-robot Teams](https://arxiv.org/pdf/1805.03328)> by David L. McPherson, Dexter R.R. Scobee, Joseph Menke, Allen Y. Yang and S. Shankar Sastry, 2018.
 
-* <[Learning safe policies with expert guidance](https://papers.nips.cc/paper/8124-learning-safe-policies-with-expert-guidance.pdf)> by Jessie Huang, Fa Wu, Doina Precup and Yang Cai, 2018.
+* <[Learning Safe Policies with Expert Guidance](https://papers.nips.cc/paper/8124-learning-safe-policies-with-expert-guidance.pdf)> by Jessie Huang, Fa Wu, Doina Precup and Yang Cai, 2018.
 
-* <[Inferring geometric constraints in human demonstrations](https://arxiv.org/pdf/1810.00140)> by Guru Subramani, Michael Zinn and Michael Gleicher, 2018.
+* <[Inferring Geometric Constraints in Human Demonstrations](https://arxiv.org/pdf/1810.00140)> by Guru Subramani, Michael Zinn and Michael Gleicher, 2018.
 
-* <[Learning task specifications from demonstrations](https://papers.nips.cc/paper/7782-learning-task-specifications-from-demonstrations.pdf)> by Marcell Vazquez-Chanlatte, Susmit Jha, Ashish Tiwari, Mark K. Ho and Sanjit A. Seshia, 2018.
+* <[Learning Task Specifications from Demonstrations](https://papers.nips.cc/paper/7782-learning-task-specifications-from-demonstrations.pdf)> by Marcell Vazquez-Chanlatte, Susmit Jha, Ashish Tiwari, Mark K. Ho and Sanjit A. Seshia, 2018.
 
-* <[C-LEARN: Learning geometric constraints from demonstrations for multi-step manipulation in shared autonomy](https://dspace.mit.edu/bitstream/handle/1721.1/116016/ICRA17_DArpino_CLEARN.pdf?sequence=1&isAllowed=y)> by Claudia P´erez-D’Arpino and Julie A. Shah, 2017.
+* <[C-LEARN: Learning Geometric Constraints from Demonstrations for Multi-step Manipulation in Shared Autonomy](https://dspace.mit.edu/bitstream/handle/1721.1/116016/ICRA17_DArpino_CLEARN.pdf?sequence=1&isAllowed=y)> by Claudia P´erez-D’Arpino and Julie A. Shah, 2017.
 
 ## Imitation Learning Under Extra Constraints (Shaping Reward)
 
-* <[Simulating emergent properties of human driving behavior using multi-agent reward augmented imitation learning](https://arxiv.org/pdf/1903.05766)> by Raunak P. Bhattacharyya, Derek J. Phillips, Changliu Liu, Jayesh K. Gupta, Katherine Driggs-Campbell and Mykel J. Kochenderfer, 2019.
+* <[Simulating Emergent Properties of Human Driving Behavior Using Multi-agent Reward Augmented Imitation Learning](https://arxiv.org/pdf/1903.05766)> by Raunak P. Bhattacharyya, Derek J. Phillips, Changliu Liu, Jayesh K. Gupta, Katherine Driggs-Campbell and Mykel J. Kochenderfer, 2019.
 
-* <[Infogail: Interpretable imitation learning from visual demonstrations](http://papers.nips.cc/paper/6971-infogail-interpretable-imitation-learning-from-visual-demonstrations.pdf)> by Yunzhu Li, Jiaming Song and Stefano Ermon, 2017.
+* <[Infogail: Interpretable Imitation Learning from Visual Demonstrations](http://papers.nips.cc/paper/6971-infogail-interpretable-imitation-learning-from-visual-demonstrations.pdf)> by Yunzhu Li, Jiaming Song and Stefano Ermon, 2017.
 
-* <[Imitation learning with demonstrations and shaping rewards](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/download/8643/8826)> by Kshitij Judah, Alan Fern, Prasad Tadepalli and Robby Goetschalckx, 2014.
+* <[Imitation Learning with Demonstrations and Shaping Rewards](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/download/8643/8826)> by Kshitij Judah, Alan Fern, Prasad Tadepalli and Robby Goetschalckx, 2014.
 
-* <[Imitation learning with a value-based prior](https://arxiv.org/pdf/1206.5290)> by Umar Syed and Robert E. Schapire, 2012.
+* <[Imitation Learning with a Value-based Prior](https://arxiv.org/pdf/1206.5290)> by Umar Syed and Robert E. Schapire, 2012.
 
-* <[Reinforcement learning from simultaneous human and MDP reward](http://www.cs.utexas.edu/users/pstone/Papers/bib2html-links/AAMAS12-knox.pdf)> by W. Bradley Knox and Peter Stone, 2012.
+* <[Reinforcement Learning from Simultaneous Human and MDP Reward](http://www.cs.utexas.edu/users/pstone/Papers/bib2html-links/AAMAS12-knox.pdf)> by W. Bradley Knox and Peter Stone, 2012.
