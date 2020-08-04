@@ -28,6 +28,10 @@ This type of constraints includes the total expected cost until the state reache
 
 * <[Value Constrained Model-free Continuous Control](https://arxiv.org/pdf/1902.04623)> by Steven Bohez, Abbas Abdolmaleki, Michael Neunert, Jonas Buchli, Nicolas Heess and Raia Hadsell, 2019.
 
+* <[Convergent Policy Optimization for Safe Reinforcement Learning](http://papers.nips.cc/paper/8576-convergent-policy-optimization-for-safe-reinforcement-learning.pdf)> by Ming Yu, Zhuoran Yang, Mladen Kolar and Zhaoran Wang, 2019.
+
+* <[Safe Q-Learning Method Based on Constrained Markov Decision Processes](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8895829)> by Yangyang Ge, Fei Zhu, Xinghong Ling and Quan Liu, 2019.
+
 * <[Batch Policy Learning under Constraints](https://arxiv.org/pdf/1903.08738)> by Hoang M. Le, Cameron Voloshin and Yisong Yue, 2019.
 
 * <[Constrained Cross-Entropy Method for Safe Reinforcement Learning]()> by Min Wen and Ufuk Topcu, 2018.
