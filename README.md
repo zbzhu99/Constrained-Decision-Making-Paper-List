@@ -46,6 +46,8 @@ This type of constraints includes the total expected cost until the state reache
 
 ### Chance constraints
 
+* <[Chance Constrained Policy Optimization for Process Control and Optimization](https://arxiv.org/pdf/2008.00030)> by Panagiotis Petsagkourakis, Ilya Orson Sandoval, Eric Bradford, Federico Galvanin, Dongda Zhang and Ehecatl Antonio del Rio-Chanona, 2020.
+
 * <[Risk-Constrained Reinforcement Learning with Percentile Risk Criteria](http://www.jmlr.org/papers/volume18/15-636/15-636.pdf)> by Yinlam Chow, Mohammad Ghavamzadeh, Lucas Janson and Marco Pavone, 2015.
 
 ## Imitation Learning Of Constraints
