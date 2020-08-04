@@ -6,7 +6,9 @@ Constrained Policy Optimization is closely related to safe exploration, which me
 
 ## Reinforcement Learning Under Constraints
 
-### Review / Survey
+### Review / Survey / Blog
+
+* <[Constrained MDPs and the Reward Hypothesis](https://readingsml.blogspot.com/2020/03/constrained-mdps-and-reward-hypothesis.html)> by Csaba Szepesvári, 2020.
 
 * <[Exploration-Exploitation in Constrained MDPs](https://arxiv.org/pdf/2003.02189.pdf)> by Yonathan Efroni, Shie Mannor and Matteo Pirotta, 2020.
 
