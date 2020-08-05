@@ -78,6 +78,8 @@ This type of constraints includes the total expected cost until the state reache
 
 ## Imitation Learning Under Extra Constraints (Shaping Reward)
 
+* <[Deep Inverse Q-learning with Constraints](https://arxiv.org/pdf/2008.01712)> by Gabriel Kalweit, Maria Huegle, Moritz Werling and Joschka Boedecker, 2020.
+
 * <[Simulating Emergent Properties of Human Driving Behavior Using Multi-agent Reward Augmented Imitation Learning](https://arxiv.org/pdf/1903.05766)> by Raunak P. Bhattacharyya, Derek J. Phillips, Changliu Liu, Jayesh K. Gupta, Katherine Driggs-Campbell and Mykel J. Kochenderfer, 2019.
 
 * <[Infogail: Interpretable Imitation Learning from Visual Demonstrations](http://papers.nips.cc/paper/6971-infogail-interpretable-imitation-learning-from-visual-demonstrations.pdf)> by Yunzhu Li, Jiaming Song and Stefano Ermon, 2017.
