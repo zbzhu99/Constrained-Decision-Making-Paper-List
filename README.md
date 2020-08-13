@@ -12,6 +12,8 @@ Constrained Policy Optimization is closely related to safe exploration, which me
 
 * <[Exploration-Exploitation in Constrained MDPs](https://arxiv.org/pdf/2003.02189.pdf)> by Yonathan Efroni, Shie Mannor and Matteo Pirotta, 2020.
 
+* <[Safety Gym](https://openai.com/blog/safety-gym/)> by Joshua Achiam, Alex Ray and Dario Amodei, 2019.
+
 * <[Benchmarking Safe Exploration in Deep Reinforcement Learning](https://pdfs.semanticscholar.org/4d0f/6a6ffcd6ab04732ff76420fd9f8a7bb649c3.pdf)> by Alex Ray, Joshua Achiam and Dario Amodei, 2019.
 
 * <[A Comprehensive Survey on Safe Reinforcement Learning](https://pdfs.semanticscholar.org/c0f2/c4104ef6e36bb67022001179887e6600d24d.pdf)> by Javier Garc´ıa and Fernando Fern´andez, 2015.
