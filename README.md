@@ -48,7 +48,9 @@ This type of constraints includes the total expected cost until the state reache
   
   This book establishes the framework of CMDPs and solve the optimization problem with known model by linear programming. But it does not give the solution for optimial policy in high dimensional control.
 
-### Hard constraints on each state/action
+### Hard constraints
+
+* <[Constrained Episodic Reinforcement Learning in Concave-convex and Knapsack Settings]> by Kianté Brantley, Miroslav Dudik, Thodoris Lykouris, Sobhan Miryoosefi, Max Simchowitz, Aleksandrs Slivkins and Wen Sun, 2020.
 
 * <[Safe Exploration in Continuous Action Spaces](https://arxiv.org/pdf/1801.08757)> by Gal Dalal, Krishnamurthy Dvijotham, Matej Vecerik, Todd Hester, Cosmin Paduraru and Yuval Tassa, 2018.
 
