@@ -50,7 +50,7 @@ This type of constraints includes the total expected cost until the state reache
 
 ### Hard constraints
 
-* <[Constrained Episodic Reinforcement Learning in Concave-convex and Knapsack Settings]> by Kianté Brantley, Miroslav Dudik, Thodoris Lykouris, Sobhan Miryoosefi, Max Simchowitz, Aleksandrs Slivkins and Wen Sun, 2020.
+* <[Constrained Episodic Reinforcement Learning in Concave-convex and Knapsack Settings](https://arxiv.org/pdf/2006.05051.pdf)> by Kianté Brantley, Miroslav Dudik, Thodoris Lykouris, Sobhan Miryoosefi, Max Simchowitz, Aleksandrs Slivkins and Wen Sun, 2020.
 
 * <[Safe Exploration in Continuous Action Spaces](https://arxiv.org/pdf/1801.08757)> by Gal Dalal, Krishnamurthy Dvijotham, Matej Vecerik, Todd Hester, Cosmin Paduraru and Yuval Tassa, 2018.
 
