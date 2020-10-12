@@ -72,6 +72,8 @@ This type of constraints includes the total expected cost until the state reache
 
 * <[Learning Constraints from Demonstrations](https://arxiv.org/pdf/1812.07084)> by Glen Chou, Dmitry Berenson and Necmiye Ozay, 2018.
 
+* <[Interpretable Multi-Objective Reinforcement Learning through Policy Orchestration](https://arxiv.org/pdf/1809.08343)> by Ritesh Noothigattu, Djallel Bouneffouf, Nicholas Mattei, Rachita Chandra, Piyush Madan, Kush Varshney, Murray Campbell, Moninder Singh and Francesca Rossi, 2018.
+
 * <[Modeling Supervisor Safe Sets for Improving Collaboration in Human-robot Teams](https://arxiv.org/pdf/1805.03328)> by David L. McPherson, Dexter R.R. Scobee, Joseph Menke, Allen Y. Yang and S. Shankar Sastry, 2018.
 
 * <[Learning Safe Policies with Expert Guidance](https://papers.nips.cc/paper/8124-learning-safe-policies-with-expert-guidance.pdf)> by Jessie Huang, Fa Wu, Doina Precup and Yang Cai, 2018.
