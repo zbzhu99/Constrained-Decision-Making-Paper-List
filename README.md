@@ -22,6 +22,8 @@ Constrained Policy Optimization is closely related to safe exploration, which me
 
 This type of constraints includes the total expected cost until the state reaches some set M, the expected discounted cost, expected average cost, etc.
 
+* <[First Order Optimization in Policy Space for Constrained Deep Reinforcement Learning](https://arxiv.org/pdf/2002.06506)> by Yiming Zhang, Quan Vuong and Keith W. Ross, 2020.
+
 * <[Responsive Safety in Reinforcement Learning by PID Lagrangian Methods](https://arxiv.org/pdf/2007.03964.pdf)> by Adam Stooke, Joshua Achiam and Pieter Abbeel, 2020.
 
 * <[Safe Policy Learning for Continuous Control](https://openreview.net/pdf?id=HkxeThNFPH)> by Yinlam Chow, Ofir Nachum, Aleksandra Faust, Edgar Duenez-Guzman and Mohammad Ghavamzadeh, 2020.
