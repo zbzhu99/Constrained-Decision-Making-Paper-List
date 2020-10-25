@@ -62,7 +62,7 @@ This type of constraints includes the total expected cost until the state reache
 
 * <[Risk-Constrained Reinforcement Learning with Percentile Risk Criteria](http://www.jmlr.org/papers/volume18/15-636/15-636.pdf)> by Yinlam Chow, Mohammad Ghavamzadeh, Lucas Janson and Marco Pavone, 2015.
 
-## Imitation Learning Of Constraints
+## Inverse Learning Of Constraints
 
 * <[Learning parametric constraints in high dimensions from demonstrations](http://proceedings.mlr.press/v100/chou20a/chou20a.pdf)> by Glen Chou, Necmiye Ozay, and Dmitry Berenson, 2020.
 
