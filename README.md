@@ -64,6 +64,8 @@ This type of constraints includes the total expected cost until the state reache
 
 ## Imitation Learning Of Constraints
 
+* <[Learning parametric constraints in high dimensions from demonstrations](http://proceedings.mlr.press/v100/chou20a/chou20a.pdf)> by Glen Chou, Necmiye Ozay, and Dmitry Berenson, 2020.
+
 * <[Approaches to Safety in Inverse Reinforcement Learning](https://escholarship.org/content/qt6j34r5tp/qt6j34r5tp.pdf)> by Dexter R.R. Scobee, 2020.
 
 * <[Counter-example Guided Learning of Bounds on Environment Behavior](https://arxiv.org/pdf/2001.07233)> by Yuxiao Chen, Sumanth Dathathri, Tung Phan-Minh and Richard M. Murray, 2020.
