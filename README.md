@@ -66,7 +66,9 @@ This type of constraints includes the total expected cost until the state reache
 
 ## Inverse Learning Of Constraints
 
-* <[Learning Parametric Constraints in High Dimensions from Demonstrations](http://proceedings.mlr.press/v100/chou20a/chou20a.pdf)> by Glen Chou, Necmiye Ozay, and Dmitry Berenson, 2020.
+* <[Inverse Constrained Reinforcement Learning](https://arxiv.org/pdf/2011.09999.pdf)> by Usman Anwar, Shehryar Malik, Alireza Aghasi and Ali Ahmed, 2021.
+
+* <[Learning Parametric Constraints in High Dimensions from Demonstrations](http://proceedings.mlr.press/v100/chou20a/chou20a.pdf)> by Glen Chou, Necmiye Ozay and Dmitry Berenson, 2020.
 
 * <[Approaches to Safety in Inverse Reinforcement Learning](https://escholarship.org/content/qt6j34r5tp/qt6j34r5tp.pdf)> by Dexter R.R. Scobee, 2020.
 
