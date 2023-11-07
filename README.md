@@ -8,6 +8,10 @@ Constrained Policy Optimization is closely related to safe exploration, which me
 
 ### Review / Survey / Blog
 
+* <[Datasets and Benchmarks for Offline Safe Reinforcement Learning](https://arxiv.org/pdf/2306.09303.pdf)> by Zuxin Liu, Zijian Guo, Haohong Lin, Yihang Yao, Jiacheng Zhu, Zhepeng Cen, Hanjiang Hu, Wenhao Yu, Tingnan Zhang, Jie Tan, Ding Zhao, 2023.
+
+* <[Trustworthy Reinforcement Learning Against Intrinsic Vulnerabilities: Robustness, Safety, and Generalizability](https://arxiv.org/pdf/2209.08025.pdf)> by Mengdi Xu, Zuxin Liu, Peide Huang, Wenhao Ding, Zhepeng Cen, Bo Li, and Ding Zhao. 2022.
+
 * <[Constrained MDPs and the Reward Hypothesis](https://readingsml.blogspot.com/2020/03/constrained-mdps-and-reward-hypothesis.html)> by Csaba Szepesvári, 2020.
 
 * <[Exploration-Exploitation in Constrained MDPs](https://arxiv.org/pdf/2003.02189.pdf)> by Yonathan Efroni, Shie Mannor and Matteo Pirotta, 2020.
@@ -21,6 +25,14 @@ Constrained Policy Optimization is closely related to safe exploration, which me
 ### Constraints on expectations
 
 This type of constraints includes the total expected cost until the state reaches some set M, the expected discounted cost, expected average cost, etc.
+
+* <[Constraint-Conditioned Policy Optimization for Versatile Safe Reinforcement Learning](https://arxiv.org/pdf/2310.03718.pdf)> by Yihang Yao, Zuxin Liu, Zhepeng Cen, Jiacheng Zhu, Wenhao Yu, Tingnan Zhang, Ding Zhao, 2023.
+
+* <[Constrained Decision Transformer for Offline Safe Reinforcement Learning](https://arxiv.org/pdf/2302.07351.pdf)> by Zuxin Liu, Zijian Guo, Yihang Yao, Zhepeng Cen, Wenhao Yu, Tingnan Zhang, Ding Zhao, 2023.
+
+* <[Saute RL: Almost Surely Safe Reinforcement Learning Using State Augmentation](https://arxiv.org/pdf/2202.06558.pdf)> by Aivar Sootla, Alexander I. Cowen-Rivers, Taher Jafferjee, Ziyan Wang, David Mguni, Jun Wang, Haitham Bou-Ammar, 2022.
+
+* <[Constrained Variational Policy Optimization for Safe Reinforcement Learning](https://arxiv.org/pdf/2201.11927.pdf)> by Zuxin Liu, Zhepeng Cen, Vladislav Isenbaev, Wei Liu, Zhiwei Steven Wu, Bo Li, Ding Zhao, 2022.
 
 * <[CRPO: A New Approach for Safe Reinforcement Learning with Convergence Guarantee](http://proceedings.mlr.press/v139/xu21a/xu21a.pdf)> by Tengyu Xu, Yingbin Lang and Guanghui Lan, 2021.
 
